@@ -1,0 +1,23 @@
+# Ignore the frontend directory
+frontend/
+
+# Ignore Python virtual environments
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.swp
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs & caches
+logs/
+*.log
